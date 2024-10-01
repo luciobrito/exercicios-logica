@@ -1,3 +1,7 @@
+//Do Exercicio do LeetCode
+//Código para converter de número romano para decimal
+
+
 #include <stdio.h>
 #include <string.h>
 
